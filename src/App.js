@@ -30,7 +30,7 @@ class App extends Component {
       <div>
         <Paragraph
           key="App-first-paragraph"
-          text={"小說標題"}
+          text={"小說標題a"}
           textAlign="center"
           verticalAlign="middle"
           height="100vh"
